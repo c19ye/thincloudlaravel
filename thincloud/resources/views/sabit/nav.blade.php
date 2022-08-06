@@ -13,17 +13,7 @@
             </li>
           </ul>
         </div>
-        <div
-          class="content-header-left col-md-9 col-12 mt-50 ms-2 d-none d-sm-block"
-        >
-          <div class="row breadcrumbs-top">
-            <div class="col-md-12 d-none d-md-block">
-              <h2 class="content-header-title float-start mb-0 me-1">
-                Anasayfa
-              </h2>
-            </div>
-          </div>
-        </div>
+        @yield("breadcrumb")
         <ul class="nav navbar-nav align-items-center ms-auto">
           <li class="nav-item nav-search">
             <a class="nav-link nav-link-search"
@@ -196,7 +186,7 @@
                 </a>
               </li>
               <li class="dropdown-menu-footer">
-                <a class="btn btn-primary w-100" href="#">Bildirimleri oku</a>
+                <a class="btn btn-primary w-100" href="/notification">Bildirimleri oku</a>
               </li>
             </ul>
           </li>

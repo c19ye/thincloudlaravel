@@ -1,9 +1,27 @@
 @extends("layout")
-
+@extends("sabit.nav")
 @section("title")
 Anasayfa
 @endsection
+@section("breadcrumb")
+<div
+          class="content-header-left col-md-9 col-12 mt-50 ms-2 d-none d-sm-block"
+        >
+          <div class="row breadcrumbs-top">
+            <div class="col-md-12 d-none d-md-block">
+              <h2 class="content-header-title float-start mb-0 me-1">
+                @yield("title")
+              </h2>
+              <div class="breadcrumb-wrapper">
+                <ol class="breadcrumb">
 
+                 
+                </ol>
+              </div>
+            </div>
+          </div>
+        </div>
+@endsection
 @section("css")
 
 <link
