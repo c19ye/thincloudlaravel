@@ -18,7 +18,7 @@ class MyplanSeeder extends Seeder
     {
         DB::table("my_plans")->insert([
             "name" => "Temel",
-            "price" => "9.99",
+            "price" => "9",
             "features1" => "Kişisel Kullanım",
             "features2" => "Temel CPU/RAM",
             'created_at' => Carbon::now()->format('Y-m-d H:i:s'),
@@ -26,7 +26,7 @@ class MyplanSeeder extends Seeder
         ]);
         DB::table("my_plans")->insert([
             "name" => "Standart",
-            "price" => "99.99",
+            "price" => "99",
             "features1" => "Kişisel Kullanım",
             "features2" => "Standart CPU/RAM",
             "features3" => "7/24 Destek",
@@ -35,7 +35,7 @@ class MyplanSeeder extends Seeder
         ]);
         DB::table("my_plans")->insert([
             "name" => "İşletme",
-            "price" => "999.99",
+            "price" => "999",
             "features1" => "Kişisel Kullanım",
             "features2" => "Güçlü CPU/RAM",
             "features3" => "Günlük Yedekleme",
@@ -45,7 +45,7 @@ class MyplanSeeder extends Seeder
         ]);
         DB::table("my_plans")->insert([
             "name" => "Kurumsal",
-            "price" => "9999.99",
+            "price" => "9999",
             "features1" => "Şirket Kullanımı",
             "features2" => "Güncel CPU/RAM",
             "features3" => "Günlük Yedekleme",
