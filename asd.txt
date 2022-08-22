@@ -1,4 +1,4 @@
-https://prod.liveshare.vsengsaas.visualstudio.com/join?328D4BCE76AB28C485D7C80291BB399F2B28
+https://prod.liveshare.vsengsaas.visualstudio.com/join?0ABC823F7D9F39C0EA1E5BA9A95B5F0CFD37
 
 thincloud3(filehubs düzeltilecek) içinde update kısımları ve flaş mesaj kısımları mevcut
 
