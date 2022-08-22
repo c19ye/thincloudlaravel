@@ -10,6 +10,7 @@ departman fatura sütunu fatura_id den çekilecek
 departman datatable sil çalışmıyor
 fotoları veritabanına kaydet(planlarımdakiler gibi)
 roller yeni rol ekle ismi unique yap
+rol düzenle checkboxlar işaretlenmezse veritabanına 0 kaydetsin
 
 
 menüdeki fatura kısmı kalkıp planlarıma eklensin mi
