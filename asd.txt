@@ -13,10 +13,10 @@ roller yeni rol ekle ismi unique yap
 rol düzenle checkboxlar işaretlenmezse veritabanına 0 kaydetsin
 
 
-roller listesinde copy yerine kişi ekle olacak mı
-menüdeki fatura kısmı kalkıp planlarıma eklensin mi
-thincloud yedekleriniz' e düzenlenin yanına sil butonu konsun mu
-departman datatable düzenle(ne değiştirilecek)
+roller listesinde copy yerine kişi ekle olacak mı + ekle popup olacak 
+menüdeki fatura kısmı kalkıp planlarıma eklensin mi kalkacak güncelleye eklenecek onun yerine fatura geçmişi ekle
+thincloud yedekleriniz' e düzenlenin yanına sil butonu konsun mu kaydete butonunun yanına bu yedeği kaydet
+departman datatable düzenle(ne değiştirilecek) başka departmana geçiş seçeneği koy
 departmanda hiç vm yoksa sanalbilgisayarımdaki tablodaki düzenlede mi departman seçilsin yoksa departman tablosunda vm ekle mi olsun
 yedeklerinizi indirin lokasyon nasıl olacak
 backup tablo sil ve vm ismi olacak mı
