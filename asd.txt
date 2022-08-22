@@ -3,3 +3,18 @@ https://prod.liveshare.vsengsaas.visualstudio.com/join?B5CE96EBA8E505CE69F623287
 thincloud3(filehubs düzeltilecek) içinde update kısımları ve flaş mesaj kısımları mevcut
 
 e-firewall kısmına başlandı(16.08.22)
+
+planlarım güncelle kısmı çalışmıyor
+departman rolleri türkçe yap
+departman fatura sütunu fatura_id den çekilecek
+departman datatable sil çalışmıyor
+fotoları veritabanına kaydet(planlarımdakiler gibi)
+roller yeni rol ekle ismi unique yap
+
+
+thincloud yedekleriniz' e düzenlenin yanına sil butonu konsun mu
+departman datatable düzenle(ne değiştirilecek)
+departmanda hiç vm yoksa sanalbilgisayarımdaki tablodaki düzenlede mi departman seçilsin yoksa departman tablosunda vm ekle mi olsun
+yedeklerinizi indirin lokasyon nasıl olacak
+backup tablo sil ve vm ismi olacak mı
+bir domainde birden fazla departman olabilir mi
