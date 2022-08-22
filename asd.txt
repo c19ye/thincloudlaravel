@@ -1,4 +1,4 @@
-https://prod.liveshare.vsengsaas.visualstudio.com/join?B5CE96EBA8E505CE69F62328725CD8477E3C
+https://prod.liveshare.vsengsaas.visualstudio.com/join?1212BEED561C649CCEF9D80E4E3E01B6A1C5
 
 thincloud3(filehubs düzeltilecek) içinde update kısımları ve flaş mesaj kısımları mevcut
 
@@ -12,6 +12,7 @@ fotoları veritabanına kaydet(planlarımdakiler gibi)
 roller yeni rol ekle ismi unique yap
 
 
+menüdeki fatura kısmı kalkıp planlarıma eklensin mi
 thincloud yedekleriniz' e düzenlenin yanına sil butonu konsun mu
 departman datatable düzenle(ne değiştirilecek)
 departmanda hiç vm yoksa sanalbilgisayarımdaki tablodaki düzenlede mi departman seçilsin yoksa departman tablosunda vm ekle mi olsun
