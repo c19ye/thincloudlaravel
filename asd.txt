@@ -13,6 +13,7 @@ roller yeni rol ekle ismi unique yap
 rol düzenle checkboxlar işaretlenmezse veritabanına 0 kaydetsin
 
 
+roller listesinde copy yerine kişi ekle olacak mı
 menüdeki fatura kısmı kalkıp planlarıma eklensin mi
 thincloud yedekleriniz' e düzenlenin yanına sil butonu konsun mu
 departman datatable düzenle(ne değiştirilecek)
