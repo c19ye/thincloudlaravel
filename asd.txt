@@ -13,7 +13,7 @@ roller yeni rol ekle ismi unique yap
 rol düzenle checkboxlar işaretlenmezse veritabanına 0 kaydetsin
 
 
-roller listesinde copy yerine kişi ekle olacak mı + ekle popup olacak 
+roller listesinde copy yerine kişi ekle olacak mı, + ekle popup olacak ve eklenmek istenecek kişiler seçilip en son kaydedilecek
 menüdeki fatura kısmı kalkıp planlarıma eklensin mi kalkacak güncelleye eklenecek onun yerine fatura geçmişi ekle
 thincloud yedekleriniz' e düzenlenin yanına sil butonu konsun mu kaydete butonunun yanına bu yedeği kaydet
 departman datatable düzenle(ne değiştirilecek) başka departmana geçiş seçeneği koy 
