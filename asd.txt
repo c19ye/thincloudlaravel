@@ -5,7 +5,6 @@ thincloud3(filehubs düzeltilecek) içinde update kısımları ve flaş mesaj k�
 e-firewall kısmına başlandı(16.08.22)
 
 planlarım güncelle kısmı çalışmıyor
-departman rolleri türkçe yap
 departman fatura sütunu fatura_id den çekilecek
 departman datatable sil çalışmıyor
 fotoları veritabanına kaydet(planlarımdakiler gibi)
@@ -14,7 +13,11 @@ roller listesinde copy yerine kişi ekle olacak mı, + ekle popup olacak ve ekle
 menüdeki fatura kısmı kalkıp planlarıma eklensin mi kalkacak güncelleye eklenecek onun yerine fatura geçmişi ekle
 thincloud yedekleriniz' e düzenlenin yanına sil butonu konsun mu kaydete butonunun yanına bu yedeği kaydet
 departman datatable düzenle(ne değiştirilecek) başka departmana geçiş seçeneği koy 
-departmanda hiç vm yoksa sanalbilgisayarımdaki tablodaki düzenlede mi departman seçilsin yoksa departman tablosunda vm ekle mi olsun ikisinde de
 yedeklerinizi indirin lokasyon nasıl olacak
 backup tablo sil ve vm ismi olacak mı evet
 bir domainde birden fazla departman olabilir mi olabilir
+
+departman rolleri türkçe yap
+departmanda hiç vm yoksa sanalbilgisayarımdaki tablodaki düzenlede mi departman seçilsin yoksa departman tablosunda vm ekle mi olsun ikisinde de
+
+
