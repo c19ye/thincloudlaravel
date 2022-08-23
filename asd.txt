@@ -4,6 +4,8 @@ thincloud3(filehubs düzeltilecek) içinde update kısımları ve flaş mesaj k�
 
 e-firewall kısmına başlandı(16.08.22)
 
+fatura yapılacak
+hesap ayarları yapılacak
 departman datatable sil çalışmıyor
 fotoları veritabanına kaydet(planlarımdakiler gibi)
 navbar arama düzgün çalışsın
