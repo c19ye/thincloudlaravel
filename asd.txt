@@ -8,6 +8,8 @@ departman datatable sil çalışmıyor
 fotoları veritabanına kaydet(planlarımdakiler gibi)
 navbar arama düzgün çalışsın
 hiç vm oluşturulmamışsa anasayfada, planlarımda, sanal bilgisayarlardımda oluşturmak istermisin yazsın, basınca sanal bigisayarlarımdaki thincloud ekle ye gitsin
+roller arama yamuk
+ikili doğrulama ve şifre sıfırlama eklenecek
 
 
 roller listesinde copy yerine kişi ekle olacak mı, + ekle popup olacak ve eklenmek istenecek kişiler seçilip en son kaydedilecek
