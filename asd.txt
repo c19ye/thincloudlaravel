@@ -6,6 +6,7 @@ e-firewall kısmına başlandı(16.08.22)
 
 departman datatable sil çalışmıyor
 fotoları veritabanına kaydet(planlarımdakiler gibi)
+navbar arama düzgün çalışsın
 
 roller listesinde copy yerine kişi ekle olacak mı, + ekle popup olacak ve eklenmek istenecek kişiler seçilip en son kaydedilecek
 menüdeki fatura kısmı kalkıp planlarıma eklensin mi kalkacak güncelleye eklenecek onun yerine fatura geçmişi ekle
