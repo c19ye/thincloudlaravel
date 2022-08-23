@@ -11,6 +11,7 @@ hiç vm oluşturulmamışsa anasayfada, planlarımda, sanal bilgisayarlardımda 
 roller arama yamuk
 ikili doğrulama ve şifre sıfırlama eklenecek
 bilgi sayfası ve faq vertabanı oluşturulacak
+foto yoksa isim soyisim baş harfleri foto yeene gözükecek
 
 roller listesinde copy yerine kişi ekle olacak mı, + ekle popup olacak ve eklenmek istenecek kişiler seçilip en son kaydedilecek
 menüdeki fatura kısmı kalkıp planlarıma eklensin mi kalkacak güncelleye eklenecek onun yerine fatura geçmişi ekle(vuexy app-invoice-list.html eklenecek)
