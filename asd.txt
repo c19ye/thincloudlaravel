@@ -7,16 +7,16 @@ e-firewall kısmına başlandı(16.08.22)
 departman datatable sil çalışmıyor
 fotoları veritabanına kaydet(planlarımdakiler gibi)
 navbar arama düzgün çalışsın
+hiç vm oluşturulmamışsa anasayfada, planlarımda, sanal bilgisayarlardımda oluşturmak istermisin yazsın, basınca sanal bigisayarlarımdaki thincloud ekle ye gitsin
+
 
 roller listesinde copy yerine kişi ekle olacak mı, + ekle popup olacak ve eklenmek istenecek kişiler seçilip en son kaydedilecek
 menüdeki fatura kısmı kalkıp planlarıma eklensin mi kalkacak güncelleye eklenecek onun yerine fatura geçmişi ekle
-thincloud yedekleriniz' e düzenlenin yanına sil butonu konsun mu kaydete butonunun yanına bu yedeği kaydet
 departman datatable düzenle(ne değiştirilecek) başka departmana geçiş seçeneği koy 
 yedeklerinizi indirin lokasyon nasıl olacak
-backup tablo sil ve vm ismi olacak mı evet
+backup tablo sil ve vm ismi olacak mı evet kaydet butonunun yanına bu yedeği sil butonu konsun ve vm eklensin
 bir domainde birden fazla departman olabilir mi olabilir
 
-departman rolleri türkçe yap
-departmanda hiç vm yoksa sanalbilgisayarımdaki tablodaki düzenlede mi departman seçilsin yoksa departman tablosunda vm ekle mi olsun ikisinde de
+ departman tablosunda vm ekle olsun
 
 
