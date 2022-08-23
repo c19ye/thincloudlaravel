@@ -17,7 +17,7 @@ roller listesinde copy yerine kişi ekle olacak mı, + ekle popup olacak ve ekle
 menüdeki fatura kısmı kalkıp planlarıma eklensin mi kalkacak güncelleye eklenecek onun yerine fatura geçmişi ekle(vuexy app-invoice-list.html eklenecek)
 departman datatable düzenle(ne değiştirilecek) başka departmana geçiş seçeneği koy 
 yedeklerinizi indirin lokasyon nasıl olacak
-backup tablo sil olacak mı evet kaydet butonunun yanına bu yedeği sil butonu konsun
+backup tablo sil çalışmıyor
 bir domainde birden fazla departman olabilir mi olabilir
 
  departman tablosunda vm ekle olsun
