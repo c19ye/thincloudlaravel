@@ -9,9 +9,6 @@ departman rolleri türkçe yap
 departman fatura sütunu fatura_id den çekilecek
 departman datatable sil çalışmıyor
 fotoları veritabanına kaydet(planlarımdakiler gibi)
-roller yeni rol ekle ismi unique yap
-rol düzenle checkboxlar işaretlenmezse veritabanına 0 kaydetsin
-
 
 roller listesinde copy yerine kişi ekle olacak mı, + ekle popup olacak ve eklenmek istenecek kişiler seçilip en son kaydedilecek
 menüdeki fatura kısmı kalkıp planlarıma eklensin mi kalkacak güncelleye eklenecek onun yerine fatura geçmişi ekle
