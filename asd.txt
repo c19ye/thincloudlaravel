@@ -4,7 +4,6 @@ thincloud3(filehubs düzeltilecek) içinde update kısımları ve flaş mesaj k�
 
 e-firewall kısmına başlandı(16.08.22)
 
-planlarım güncelle kısmı çalışmıyor
 departman fatura sütunu fatura_id den çekilecek
 departman datatable sil çalışmıyor
 fotoları veritabanına kaydet(planlarımdakiler gibi)
