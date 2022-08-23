@@ -16,5 +16,5 @@ thincloud yedekleriniz' e düzenlenin yanına sil butonu konsun mu kaydete buton
 departman datatable düzenle(ne değiştirilecek) başka departmana geçiş seçeneği koy 
 departmanda hiç vm yoksa sanalbilgisayarımdaki tablodaki düzenlede mi departman seçilsin yoksa departman tablosunda vm ekle mi olsun ikisinde de
 yedeklerinizi indirin lokasyon nasıl olacak
-backup tablo sil ve vm ismi olacak mı var 
+backup tablo sil ve vm ismi olacak mı evet
 bir domainde birden fazla departman olabilir mi olabilir
