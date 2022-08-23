@@ -12,14 +12,16 @@ roller arama yamuk
 ikili doğrulama ve şifre sıfırlama eklenecek
 bilgi sayfası ve faq vertabanı oluşturulacak
 foto yoksa isim soyisim baş harfleri foto yeene gözükecek
-
-roller listesinde copy yerine kişi ekle olacak mı, + ekle popup olacak ve eklenmek istenecek kişiler seçilip en son kaydedilecek
-menüdeki fatura kısmı kalkıp planlarıma eklensin mi kalkacak güncelleye eklenecek onun yerine fatura geçmişi ekle(vuexy app-invoice-list.html eklenecek)
-departman datatable düzenle(ne değiştirilecek) başka departmana geçiş seçeneği koy 
-yedeklerinizi indirin lokasyon nasıl olacak
+menüdeki fatura kısmı kalkacak güncelleye eklenecek menüdeki fatura yerine fatura geçmişi ekle(vuexy app-invoice-list.html eklenecek)
 backup tablo sil çalışmıyor
+departman datatable düzenleye başka departmana geçiş seçeneği koy 
+roller listesinde kullanıcı ekle kısmı çalışmıyor. modal olacak ve eklenmek istenecek kişiler seçilip en son kaydedilecek
+departman tablosunda vm ekle olsun
+
+
+
+yedeklerinizi indirin lokasyon nasıl olacak
 bir domainde birden fazla departman olabilir mi olabilir
 
- departman tablosunda vm ekle olsun
 
 
