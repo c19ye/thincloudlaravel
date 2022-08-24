@@ -1,29 +1,30 @@
-https://prod.liveshare.vsengsaas.visualstudio.com/join?0ABC823F7D9F39C0EA1E5BA9A95B5F0CFD37
-
-thincloud3(filehubs düzeltilecek) içinde update kısımları ve flaş mesaj kısımları mevcut
-
-e-firewall kısmına başlandı(16.08.22)
-
 fatura yapılacak
-hesap ayarları yapılacak
-departman datatable sil çalışmıyor
-fotoları veritabanına kaydet(planlarımdakiler gibi)
-navbar arama düzgün çalışsın
-hiç vm oluşturulmamışsa anasayfada, planlarımda, sanal bilgisayarlardımda oluşturmak istermisin yazsın, basınca sanal bigisayarlarımdaki thincloud ekle ye gitsin
-roller arama yamuk
-ikili doğrulama ve şifre sıfırlama eklenecek
-bilgi sayfası ve faq vertabanı oluşturulacak
-foto yoksa isim soyisim baş harfleri foto yeene gözükecek
 menüdeki fatura kısmı kalkacak güncelleye eklenecek menüdeki fatura yerine fatura geçmişi ekle(vuexy app-invoice-list.html eklenecek)
-backup tablo sil çalışmıyor
-departman datatable düzenleye başka departmana geçiş seçeneği koy 
+
+hesap ayarları yapılacak
+
+fotoları veritabanına kaydet(planlarımdakiler gibi)
+foto yoksa isim soyisim baş harfleri foto yerine gözükecek
+
+hiç vm oluşturulmamışsa anasayfada, planlarımda, sanal bilgisayarlardımda oluşturmak istermisin yazsın, basınca sanal bigisayarlarımdaki thincloud ekle ye gitsin
+
+flash mesaj olsun
+
+navbar arama düzgün çalışsın
+
+ikili doğrulama ve şifre sıfırlama eklenecek
+
+bilgi sayfası ve faq vertabanı oluşturulacak
+
 roller listesinde kullanıcı ekle kısmı çalışmıyor. modal olacak ve eklenmek istenecek kişiler seçilip en son kaydedilecek
+
+backup tablo sil çalışmıyor
+
+departman datatable sil çalışmıyor
+departman datatable düzenleye başka departmana geçiş seçeneği koy 
 departman tablosunda vm ekle olsun
 
-
-
 yedeklerinizi indirin lokasyon nasıl olacak
-bir domainde birden fazla departman olabilir mi olabilir
 
 
 
