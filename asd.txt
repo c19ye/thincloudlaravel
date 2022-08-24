@@ -20,7 +20,6 @@ roller listesinde kullanıcı ekle kısmı çalışmıyor. modal olacak ve eklen
 
 backup tablo sil çalışmıyor
 
-departman datatable sil çalışmıyor
 departman datatable düzenleye başka departmana geçiş seçeneği koy 
 departman tablosunda vm ekle olsun
 
