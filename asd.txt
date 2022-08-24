@@ -24,6 +24,3 @@ departman datatable düzenleye başka departmana geçiş seçeneği koy
 departman tablosunda vm ekle olsun
 
 yedeklerinizi indirin lokasyon nasıl olacak
-
-
-
