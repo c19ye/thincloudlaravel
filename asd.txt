@@ -18,7 +18,7 @@ bilgi sayfası ve faq vertabanı oluşturulacak
 
 roller listesinde kullanıcı ekle kısmı çalışmıyor. modal olacak ve eklenmek istenecek kişiler seçilip en son kaydedilecek
 
-backup tablo sil çalışmıyor
+backup tablo sil çalışmıyor. silmek istediğinize eminmisin yazısı çıkar
 
 departman datatable düzenleye başka departmana geçiş seçeneği koy 
 departman tablosunda vm ekle olsun
