@@ -1,3 +1,5 @@
+UPDATE, DELETE VEYA PARAMETRE İLE GÖNDERİLİP YAPILAN İŞLEMLERİ USER_ID EŞİTSE GERÇEKLEŞSİN
+
 fatura yapılacak
 menüdeki fatura kısmı kalkacak güncelleye eklenecek menüdeki fatura yerine fatura geçmişi ekle(vuexy app-invoice-list.html eklenecek)
 
@@ -17,8 +19,6 @@ ikili doğrulama ve şifre sıfırlama eklenecek
 bilgi sayfası ve faq vertabanı oluşturulacak
 
 roller listesinde kullanıcı ekle kısmı çalışmıyor. modal olacak ve eklenmek istenecek kişiler seçilip en son kaydedilecek
-
-backup tablo sil çalışmıyor. silmek istediğinize eminmisin yazısı çıkar
 
 departman datatable düzenleye başka departmana geçiş seçeneği koy 
 departman tablosunda vm ekle olsun
