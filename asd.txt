@@ -8,7 +8,7 @@ foto yoksa isim soyisim baş harfleri foto yerine gözükecek
 
 hiç vm oluşturulmamışsa anasayfada, planlarımda, sanal bilgisayarlardımda oluşturmak istermisin yazsın, basınca sanal bigisayarlarımdaki thincloud ekle ye gitsin
 
-flash mesaj olsun ama nerelerde ?
+flash mesaj olsun ama nerelerde ? (/ext-component-sweet-alerts.html)
 
 navbar arama düzgün çalışsın
 
@@ -24,3 +24,12 @@ departman datatable düzenleye başka departmana geçiş seçeneği koy
 departman tablosunda vm ekle olsun
 
 yedeklerinizi indirin lokasyon nasıl olacak
+
+@error('name')
+<div class="alert alert-danger mt-1 alert-validation-msg" role="alert">
+      <div class="alert-body d-flex align-items-center">
+            <i data-feather="info" class="me-50"></i>
+                <span>{{$message}}</span>
+        </div>
+</div>
+@enderror
