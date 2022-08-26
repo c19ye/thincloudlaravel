@@ -23,6 +23,7 @@ y-roller listesinde kullanıcı ekle kısmı çalışmıyor. modal olacak ve ekl
 roller sil çalışmıyor
 
 y-flash mesaj olsun ama nerelerde ? (/ext-component-sweet-alerts.html) (login, register, hesap sil, logout, yeni birşeyler oluşturma anlarında. Misal yeni vm oluşturunca başarılı diye. benim sayfalara ben ekleyebilirim sen örneğini yaparsan)
+y-my_plans start end dateler ve virtualmachinele bağlama işi var
 
 yedeklerinizi indirin lokasyon nasıl olacak
 
