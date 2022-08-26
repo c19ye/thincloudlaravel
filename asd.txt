@@ -20,8 +20,6 @@ e-bilgi sayfası ve faq vertabanı oluşturulacak
 (bunlar senin sayfan olduğu için işleyişi sen daha iyi biliyorsun)
 y-roller listesinde kullanıcı ekle kısmı çalışmıyor. modal olacak ve eklenmek istenecek kişiler seçilip en son kaydedilecek
 
-y-departman datatable düzenleye başka departmana geçiş seçeneği koy
-
 y-flash mesaj olsun ama nerelerde ? (/ext-component-sweet-alerts.html) (login, register, hesap sil, logout, yeni birşeyler oluşturma anlarında. Misal yeni vm oluşturunca başarılı diye. benim sayfalara ben ekleyebilirim sen örneğini yaparsan)
 
 yedeklerinizi indirin lokasyon nasıl olacak
