@@ -3,6 +3,7 @@ BAZI ERRORLAR ÇALIŞMIYOR
 
 e-fatura yapılacak(yapılacak derken ?)(menüdeki fatura kısmı veritabanı işlemleri sanırım yapılı değil.)
 e-menüdeki fatura kısmı kalkacak güncelleye eklenecek menüdeki fatura yerine fatura geçmişi ekle(vuexy app-invoice-list.html eklenecek)
+e-errorlar eklenecek
 
 e-hesap ayarları yapılacak
 
