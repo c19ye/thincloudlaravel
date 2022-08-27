@@ -19,8 +19,6 @@ e?-ikili doğrulama ve şifre sıfırlama eklenecek(şifre sıfırlama mail gün
 e-bilgi sayfası ve faq vertabanı oluşturulacak
 
 y-navbar arama düzgün çalışsın(buna vaktim kalmayacak gibi sen bak istiyosan)
-y-rol silme yok
-y-roller tablo sil çalışmıyor
 y-flash mesaj olsun ama nerelerde ? (/ext-component-sweet-alerts.html) (login, register, hesap sil, logout, yeni birşeyler oluşturma anlarında. Misal yeni vm oluşturunca başarılı diye. benim sayfalara ben ekleyebilirim sen örneğini yaparsan)
 y-my_plans start end dateler ve virtualmachinele bağlama işi var
 
