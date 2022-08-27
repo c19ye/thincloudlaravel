@@ -12,8 +12,6 @@ e-foto yoksa isim soyisim baş harfleri foto yerine gözükecek(bu araştırıla
 
 e-hiç vm oluşturulmamışsa anasayfada, planlarımda, sanal bilgisayarlardımda oluşturmak istermisin yazsın, basınca sanal bigisayarlarımdaki thincloud ekle ye gitsin
 
-
-
 e?-ikili doğrulama ve şifre sıfırlama eklenecek(şifre sıfırlama mail güncelleme vs okey ama ikili doğrulama yapamıyoruz)
 
 e-bilgi sayfası ve faq vertabanı oluşturulacak
@@ -39,9 +37,8 @@ ALERT (sanal pc, departman, yedekleme, kullanıcı rolleri yapıldı)
         });
     </script>
  ---------------------------------------------------------------
-yedeklerinizi indirin lokasyon nasıl olacak
-
-@error('name')
+ REQUIRE ALERT
+ @error('name')
 <div class="alert alert-danger mt-1 alert-validation-msg" role="alert">
       <div class="alert-body d-flex align-items-center">
             <i data-feather="info" class="me-50"></i>
@@ -49,3 +46,7 @@ yedeklerinizi indirin lokasyon nasıl olacak
         </div>
 </div>
 @enderror
+---------------------------------------------------------------
+yedeklerinizi indirin lokasyon nasıl olacak
+
+
