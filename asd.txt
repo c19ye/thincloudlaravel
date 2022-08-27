@@ -17,7 +17,6 @@ e?-ikili doğrulama ve şifre sıfırlama eklenecek(şifre sıfırlama mail gün
 e-bilgi sayfası ve faq vertabanı oluşturulacak
 
 y-my_plans start end dateler ve virtualmachinele bağlama işi var
-y-my plans kısmında hesap aarlarına girilmiyor
 ----------------------------
 ALERT (sanal pc, departman, yedekleme, kullanıcı rolleri yapıldı)
  return redirect('/mynetwork/virtualmachines')->withSuccess("ThinCloud Başarıyla Oluşturuldu.");
