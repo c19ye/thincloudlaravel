@@ -16,7 +16,6 @@ e?-ikili doğrulama ve şifre sıfırlama eklenecek(şifre sıfırlama mail gün
 
 e-bilgi sayfası ve faq vertabanı oluşturulacak
 
-y-navbar arama düzgün çalışsın(buna vaktim kalmayacak gibi sen bak istiyosan)
 y-my_plans start end dateler ve virtualmachinele bağlama işi var
 y-my plans kısmında hesap aarlarına girilmiyor
 ----------------------------
