@@ -18,12 +18,12 @@ e?-ikili doğrulama ve şifre sıfırlama eklenecek(hesap ayarlarında olduğu i
 
 e-bilgi sayfası ve faq vertabanı oluşturulacak
 
-(bunlar senin sayfan olduğu için işleyişi sen daha iyi biliyorsun)
-y-roller listesinde kullanıcı ekle kısmı çalışmıyor. modal olacak ve eklenmek istenecek kişiler seçilip en son kaydedilecek
-roller sil çalışmıyor
-
+y-rol silme yok
+y-roller tablo sil çalışmıyor
 y-flash mesaj olsun ama nerelerde ? (/ext-component-sweet-alerts.html) (login, register, hesap sil, logout, yeni birşeyler oluşturma anlarında. Misal yeni vm oluşturunca başarılı diye. benim sayfalara ben ekleyebilirim sen örneğini yaparsan)
 y-my_plans start end dateler ve virtualmachinele bağlama işi var
+
+
 
 yedeklerinizi indirin lokasyon nasıl olacak
 
