@@ -12,12 +12,13 @@ e-foto yoksa isim soyisim baş harfleri foto yerine gözükecek(bu araştırıla
 
 e-hiç vm oluşturulmamışsa anasayfada, planlarımda, sanal bilgisayarlardımda oluşturmak istermisin yazsın, basınca sanal bigisayarlarımdaki thincloud ekle ye gitsin
 
-navbar arama düzgün çalışsın
+
 
 e?-ikili doğrulama ve şifre sıfırlama eklenecek(hesap ayarlarında olduğu için bakıcam ama nasıl yapacağımı hiç bilmiyorum ama ben araştırıp yapmaya çalışacağım.)
 
 e-bilgi sayfası ve faq vertabanı oluşturulacak
 
+y-navbar arama düzgün çalışsın(buna vaktim kalmayacak gibi sen bak istiyosan)
 y-rol silme yok
 y-roller tablo sil çalışmıyor
 y-flash mesaj olsun ama nerelerde ? (/ext-component-sweet-alerts.html) (login, register, hesap sil, logout, yeni birşeyler oluşturma anlarında. Misal yeni vm oluşturunca başarılı diye. benim sayfalara ben ekleyebilirim sen örneğini yaparsan)
