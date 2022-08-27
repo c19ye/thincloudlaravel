@@ -14,7 +14,7 @@ e-hiç vm oluşturulmamışsa anasayfada, planlarımda, sanal bilgisayarlardımd
 
 
 
-e?-ikili doğrulama ve şifre sıfırlama eklenecek(hesap ayarlarında olduğu için bakıcam ama nasıl yapacağımı hiç bilmiyorum ama ben araştırıp yapmaya çalışacağım.)
+e?-ikili doğrulama ve şifre sıfırlama eklenecek(şifre sıfırlama mail güncelleme vs okey ama ikili doğrulama yapamıyoruz)
 
 e-bilgi sayfası ve faq vertabanı oluşturulacak
 
