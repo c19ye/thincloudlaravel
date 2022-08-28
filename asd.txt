@@ -32,7 +32,7 @@ ALERT (sanal pc, departman, yedekleme, kullanıcı rolleri yapıldı)
         });
     </script>
  ---------------------------------------------------------------
-TEKLİ REQUIRE ALERT
+TEKLİ VALİDATE ALERT
  @error('name')
 <div class="alert alert-danger mt-1 alert-validation-msg" role="alert">
       <div class="alert-body d-flex align-items-center">
@@ -42,7 +42,7 @@ TEKLİ REQUIRE ALERT
 </div>
 @enderror
 ---------------------------------------------------------------
-WİTHBAG REQUIRE ALERT
+WİTHBAG VALİDATE ALERT
    CONTROLLER
 $request->validateWithBag("createdepartment",[
             'name' => ['required', 'min:3', Rule::unique('departments', 'name')->where("user_id",auth()->user()->id)],
