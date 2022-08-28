@@ -46,6 +46,78 @@ ALERT (sanal pc, departman, yedekleme, kullanıcı rolleri yapıldı)
 </div>
 @enderror
 ---------------------------------------------------------------
+SADECE O KULLANICIYA AİT UNİQUE  (migrationdan ->unique() kaldırılması gerekiyor)
+'thincloudname' => ['required', 'min:3', Rule::unique('virtual_machines', 'thincloudname')->where("user_id",auth()->user()->id)],
+---------------------------------------------------------------
+HESAP SİLME ALERT
+
+     <script src="../../../app-assets/js/scripts/extensions/ext-component-sweet-alerts.js"></script>
+
+CONTROLLER
+    public function delete($backup_id){
+
+        Backup::where("id",$backup_id)->where("user_id",auth()->user()->id)->delete();
+        return redirect("/mynetwork/backup");
+    }
+WEB.PHP
+      Route::get('/backup/delete/{backup_id}', [BackupController::class, 'delete']);
+BLADE
+       <button type="button" class="btn btn-danger backupdelete" id="confirm-delete{{$backup->id}}" title="{{$backup->id}}">
+                                Bu Yedeği Sil
+            </button>
+JAVASCRİPT (İSTERSEN EXT-COMPONENT-SWEET-ALERT.JS KOPYASINI AL KOPYASINDA İŞLEM YAP ADINI DEĞİŞTİR SAYFAYA DAHİL ET ORJİNALİNİ SİLİP ÇÜNKÜ YEDEĞİ SİLME İŞLEMİ YAPIYOR BENDEKİ JS)
+        var confirmColor = $('#confirm-delete');
+  // Confirm Color
+  $(".backupdelete").click(function (e) {
+        confirmColor=$(this).attr("id");
+        confirmColor = $("#"+confirmColor);
+  if (confirmColor.length) {
+
+        var id = $(this).attr("title");
+
+      Swal.fire({
+        title: 'Emin misiniz?',
+        text: "Bu işlem geri alınamaz!",
+        icon: 'warning',
+        showCancelButton: true,
+        cancelButtonText: "İptal Et",
+        confirmButtonText: 'Evet, Sil !',
+        customClass: {
+          confirmButton: 'btn btn-primary',
+          cancelButton: 'btn btn-outline-danger ms-1'
+        },
+        buttonsStyling: false
+      }).then(function (result) {
+        if (result.value) {
+          Swal.fire({
+            icon: 'success',
+            title: 'Silindi!',
+            text: 'İşleminiz gerçekleşti.',
+            confirmButtonText: "Tamam",
+            customClass: {
+              confirmButton: 'btn btn-success'
+            }
+          }).then(function() {
+
+            window.location = "/mynetwork/backup/delete/"+id;
+        });
+        } else if (result.dismiss === Swal.DismissReason.cancel) {
+          Swal.fire({
+            title: 'İptal Edildi',
+            text: 'İşleminiz iptal edildi.',
+            icon: 'error',
+            confirmButtonText: "Tamam",
+            customClass: {
+              confirmButton: 'btn btn-success'
+            }
+          });
+        }
+      });
+  }
+});
+
+
+
 yedeklerinizi indirin lokasyon nasıl olacak
 
 
