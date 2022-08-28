@@ -8,7 +8,6 @@ e-hiç vm oluşturulmamışsa anasayfada, planlarımda, sanal bilgisayarlardımd
 e-bilgi sayfası ve faq vertabanı oluşturulacak
 
 
-withbag error hata mesajını göstermiyor
 e-fotoları veritabanına kaydet(planlarımdakiler gibi)
 e-foto yoksa isim soyisim baş harfleri foto yerine gözükecek(bu araştırılacak)
 e?-ikili doğrulama
