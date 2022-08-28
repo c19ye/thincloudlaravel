@@ -1,11 +1,7 @@
 UPDATE, DELETE VEYA PARAMETRE İLE GÖNDERİLİP YAPILAN İŞLEMLERİ USER_ID EŞİTSE GERÇEKLEŞSİN
 
-e-fatura yapılacak(yapılacak derken ?)(menüdeki fatura kısmı veritabanı işlemleri sanırım yapılı değil.)
-e-menüdeki fatura kısmı kalkacak güncelleye eklenecek menüdeki fatura yerine fatura geçmişi ekle(vuexy app-invoice-list.html eklenecek)
 e-errorlar eklenecek
 e-hesap ayarları yapılacak
-e-hiç vm oluşturulmamışsa anasayfada, planlarımda, sanal bilgisayarlardımda oluşturmak istermisin yazsın, basınca sanal bigisayarlarımdaki thincloud ekle ye gitsin
-e-bilgi sayfası ve faq vertabanı oluşturulacak
 
 
 e-fotoları veritabanına kaydet(planlarımdakiler gibi)
