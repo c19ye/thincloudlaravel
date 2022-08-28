@@ -32,7 +32,7 @@ ALERT (sanal pc, departman, yedekleme, kullanıcı rolleri yapıldı)
         });
     </script>
  ---------------------------------------------------------------
- REQUIRE ALERT
+TEKLİ REQUIRE ALERT
  @error('name')
 <div class="alert alert-danger mt-1 alert-validation-msg" role="alert">
       <div class="alert-body d-flex align-items-center">
@@ -42,6 +42,50 @@ ALERT (sanal pc, departman, yedekleme, kullanıcı rolleri yapıldı)
 </div>
 @enderror
 ---------------------------------------------------------------
+WİTHBAG REQUIRE ALERT
+   CONTROLLER
+$request->validateWithBag("createdepartment",[
+            'name' => ['required', 'min:3', Rule::unique('departments', 'name')->where("user_id",auth()->user()->id)],
+            'superior_name' => 'min:3',
+
+        ],
+            [
+                'name.required' => 'Departman İsmini Girin',
+                'name.min' => 'Departman İsmi Minimum 3 Karakterden Oluşmalıdır',
+                'name.unique' => 'Departman İsmi Mevcut',
+
+                "superior_name.min" => "Kullanıcı İsmi Minimum 3 Karakterden Oluşmalıdır",
+            ]
+        );
+     
+     BLADE
+<input
+            type="text"
+            id="departmentname"
+            class="form-control"
+            aria-label="policyname"
+            aria-describedby="departmentname"
+            name="name"
+            required
+          />
+            @if ($errors->createdepartment->any())
+            <div class="alert alert-danger mt-1 alert-validation-msg" role="alert">
+                <div class="alert-body d-flex align-items-center">
+                    <i data-feather="info" class="me-50"></i>
+                    <span>{{$errors->createdepartment->first("name")}}</span>
+                </div>
+            </div>
+            @endif
+            
+     SCRİPT
+ @if (count($errors->createdepartment) > 0)
+    <script type="text/javascript">
+        $( document ).ready(function() {
+             $('#createdepartment').modal('show');
+        });
+    </script>
+  @endif
+--------------------------------------------------------
 SADECE O KULLANICIYA AİT UNİQUE  (migrationdan ->unique() kaldırılması gerekiyor)
 'thincloudname' => ['required', 'min:3', Rule::unique('virtual_machines', 'thincloudname')->where("user_id",auth()->user()->id)],
 ---------------------------------------------------------------
