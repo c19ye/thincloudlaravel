@@ -1,0 +1,35 @@
+{
+  "listItems": [
+    { "name": "Anasayfa", "url": "/", "icon": "home" },
+    { "name": "Planlarım", "url": "/mythincloud/myplans", "icon": "cloud" },
+    { "name": "Fatura", "url": "/mythincloud/billing", "icon": "dollar-sign" },
+    { "name": "Sanal Bilgisayarlarım", "url": "/mynetwork/virtualmachines", "icon": "server" },
+    { "name": "FileHubs", "url": "/mynetwork/filehubs", "icon": "hard-drive" },
+    { "name": "Departman", "url": "/mynetwork/department", "icon": "box" },
+    { "name": "Domain", "url": "/mynetwork/domain", "icon": "globe" },
+    { "name": "Güvenlik Duvarı", "url": "/mynetwork/firewall", "icon": "stop-circle" },
+    { "name": "Ayarlar", "url": "/mynetwork/settings", "icon": "info" },
+    { "name": "Dosya Yöneticisi", "url": "/filemanager", "icon": "file" },
+    { "name": "İndirme Merkezi", "url": "/download", "icon": "download" },
+    { "name": "Kullanıcı Rolleri", "url": "/roles", "icon": "users" },
+    { "name": "Log", "url": "/log", "icon": "file-text" },
+    { "name": "Bildirim Merkezi", "url": "/notification", "icon": "bell" },
+    { "name": "Bilgi Sayfası", "url": "/knowledgebase", "icon": "book-open" },
+    { "name": "Sık Sorulan Sorular", "url": "/log", "icon": "help-circle" },
+    { "name": "Hata Bildir", "url": "/ticket", "icon": "mail" },
+    { "name": "Gelen Kutusu", "url": "/inbox", "icon": "mail" },
+    { "name": "Hesap Ayarları", "url": "/account-settings-account", "icon": "tool" },
+    { "name": "Hesap Silme", "url": "/account-settings-account", "icon": "delete" },
+    { "name": "Hesap Güvenliği", "url": "/account-settings-security", "icon": "lock" },
+    { "name": "Parola Değiştir", "url": "/account-settings-security", "icon": "lock" },
+    { "name": "İkili Doğrulama", "url": "/account-settings-security", "icon": "lock" },
+    { "name": "Ödemeler & Planlar", "url": "/account-settings-billing", "icon": "dollar-sign" },
+    { "name": "Mevcut Plan", "url": "/account-settings-billing", "icon": "dollar-sign" },
+    { "name": "Ödeme Yöntemleri", "url": "/account-settings-billing", "icon": "dollar-sign" },
+    { "name": "Fatura Geçmişi", "url": "/account-settings-billing", "icon": "dollar-sign" },
+    { "name": "Fatura Adresi", "url": "/account-settings-billing", "icon": "align-left" },
+    { "name": "Aboneliği İptal Et", "url": "/account-settings-billing", "icon": "delete" }
+
+
+  ]
+}
